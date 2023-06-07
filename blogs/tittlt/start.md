@@ -1,6 +1,6 @@
 ---
 title: 搭建博客的开始
-cover: https://s2.loli.net/2023/06/05/MoWnaGTXPsfyUI1.jpg
+cover: https://s2.loli.net/2023/06/06/r1iDW45OYqo98Vp.jpg
 date: 2023-5-20
 tags:
  - 杂谈
